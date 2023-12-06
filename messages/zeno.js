@@ -8,4 +8,4 @@ const zeno = [
     "A bad feeling is a commotion of the mind repugnant to reason, and against nature."
 ];
 
-export default zeno;
+exports.zeno = zeno;

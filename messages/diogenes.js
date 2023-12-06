@@ -8,4 +8,4 @@ const diogenes = [
     "Poverty is a virtue which one can teach oneself."
 ];
 
-export default diogenes;
+exports.diogenes = diogenes;

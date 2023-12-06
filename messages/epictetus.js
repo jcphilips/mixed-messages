@@ -12,4 +12,4 @@ const epictetus = [
     "If you want something good, get it yourself.",
 ];
 
-export default epictetus;
+exports.epictetus = epictetus;

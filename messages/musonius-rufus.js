@@ -6,4 +6,4 @@ const musoniusRufus = [
     "Thus whoever destroys human marriage destroys the home, the city-the whole human race."
 ];
 
-export default musoniusRufus;
+exports.musoniusRufus = musoniusRufus;

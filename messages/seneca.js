@@ -23,4 +23,4 @@ const seneca = [
     "The greatest remedy for anger is delay."
 ];
 
-export default seneca;
+exports.seneca = seneca;

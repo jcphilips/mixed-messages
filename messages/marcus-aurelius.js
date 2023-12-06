@@ -1,4 +1,4 @@
-const marcusAurelis = [
+const marcusAurelius = [
     "The best answer to anger is silence.",
     "The more we value things outside our control, the less control we have.",
     "How ridiculous and how strange to be surprised at anything which happens in life.",
@@ -21,4 +21,4 @@ const marcusAurelis = [
     "Consider at what price you sell your integrity, but please, for God's sake, don't sell it cheap."
 ];
 
-export default marcusAurelis;
+exports.marcusAurelius = marcusAurelius;
